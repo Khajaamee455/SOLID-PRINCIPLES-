@@ -1,0 +1,23 @@
+******************* SOLID PRINCIPLES **********************
+
+SOLID PRINCIPLES is a achronym for 5 design principles 
+
+S  - Single responsibility principle
+O  - Open / Close principle
+L  - Liskov substitution principle
+I  - Interface segrigation principle
+D  - Dependency inversion principle
+
+1) Single responsibility principle states that a class should be have only one reason to chenge 
+ means calss should have only one responsibility ...
+
+2)Open /Close principle states that the class should open for extensions and close for 
+   modifications...
+
+3)Liskov substitution principle states that subtypes must be substitution for their base types...
+
+4) Interface segrigation principle states that client should not be force to depends on interfaces 
+   they do not use ...
+
+5) Dependency inversion principle states that high level modules should not be depends on low 
+   level modules they both depends on abstraction ..
